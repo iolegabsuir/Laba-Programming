@@ -16,4 +16,4 @@ jobs:
            make test
            make runtest
            make checkCov
-    - run: bash <(curl -s https://codecov.io/bash) -t 4df50f31-c918-4726-8320-dfa149fe801e
+    - run: bash <(curl -s https://codecov.io/bash) -t d25062fc-150f-4d7a-b6d4-0e7a843fdf72
